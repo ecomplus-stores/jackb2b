@@ -1,5 +1,5 @@
 {
-  "domain": "revendajackcosmeticos.com.br",
+  "domain": "unhaseestilo.com.br",
   "currency_symbol": "R$",
   "primary_color": "#7c51a0",
   "theme": {
@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/jackb2b",
   "logo": "/img/uploads/unhas-estilo.png",
-  "name": "Jack Cosméticos Revenda",
+  "name": "Unhas & Estilo",
   "short_name": "Unhas & Estilo",
   "lang": "pt_br",
   "currency": "BRL",
