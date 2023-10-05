@@ -9,7 +9,7 @@
   },
   "exchange": {
     "show": true,
-    "text": "Pedido Mínimo de R$800,00"
+    "text": "Sem Pedido Mínimo"
   },
   "promo": {
     "show": true,
