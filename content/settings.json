@@ -1,7 +1,7 @@
 {
   "domain": "unhaseestilo.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#7c51a0",
+  "primary_color": "#ff0098",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/unhas-estilo.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#feadc6",
+  "secondary_color": "#800263",
   "icon": "/img/uploads/unhas-estilo.png",
   "store_id": 51376,
   "description": "Unhas & Estilo",
