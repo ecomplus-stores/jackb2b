@@ -6,7 +6,15 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/copia-de-sugador-de-po.png",
+          "mobile_img": "/img/uploads/copia-de-sugador-de-po-480-x-300-px-.png",
+          "link": "https://unhaseestilo.com.br/equipamentos/aspiradores-sugadores"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
