@@ -4,9 +4,10 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": " GTM-MGVX34M",
+    "gtmContainerId": "GTM-NZDZR69W",
     "dataLayerVar": "dataLayer",
-    "partytown": false
+    "partytown": false,
+    "isDebug": true
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
