@@ -1,7 +1,7 @@
 {
   "domain": "unhaseestilo.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#faf4b6",
+  "primary_color": "#750642",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/unhas-estilo.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#750642",
+  "secondary_color": "#faf4b6",
   "icon": "/img/uploads/unhas-estilo.png",
   "store_id": 51376,
   "description": "Unhas & Estilo, a sua loja de beleza especializada em produtos para unhas! \n\nOferecemos preços baixos que aumentam o seu lucro, uma ampla variedade de produtos e as últimas novidades em beleza de unhas.\n\nAo comprar conosco, você economiza dinheiro e expande seu negócio. \nVenha fazer parte da nossa comunidade e alcance novos patamares na sua carreira. ",
