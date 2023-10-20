@@ -17,7 +17,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/frete-gratis.png"
+          "img": "/img/uploads/frete-gratis.png",
+          "mobile_img": "/img/uploads/frete-gratis-480-x-300-px-.png"
         }
       ]
     },
