@@ -22,8 +22,15 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/selos-2-.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/site-seguro.png",
+      "alt": "Site Seguro - Google"
+    },
+    {
+      "src": "/img/uploads/seguranca-site.png",
+      "alt": "SSL - Segurança"
+    },
+    {
+      "src": "/img/uploads/seguranca-site-1-.png"
     }
   ],
   "payment_methods": {
