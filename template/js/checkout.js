@@ -1,7 +1,7 @@
 import '#template/js/checkout'
 import './custom-js/checkout'
-import ecomCart from '@ecomplus/shopping-cart'
-var lessUnit = document.getElementById('lessUnit')
+//import ecomCart from '@ecomplus/shopping-cart'
+/* var lessUnit = document.getElementById('lessUnit')
 var firstphrase = document.getElementById('lessSome')
 var lastphrase = document.getElementById('noMore')
 var lessQuantity = 0
@@ -57,3 +57,4 @@ setInterval(function () {
     router1.afterEach(addRoute1ToData)
   }
 }, 300)
+ */
