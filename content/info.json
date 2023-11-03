@@ -8,7 +8,7 @@
     "text": "Parcele sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Sem Pedido Mínimo"
   },
   "promo": {
