@@ -22,6 +22,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
@@ -31,6 +35,11 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
