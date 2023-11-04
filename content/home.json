@@ -26,6 +26,16 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6446c8d24bd2e929c1ddda44:categories:Equipamentos:/equipamentos",
+      "sort": "sales",
+      "link": "Equipamentos",
+      "autoplay": 5
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
