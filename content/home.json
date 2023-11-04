@@ -27,19 +27,22 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
+      "load_more": false,
       "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "sales",
+      "headless": false
     },
     {
       "type": "brands-carousel",
       "limit": 24,
-      "offset": 0
+      "offset": 0,
+      "sort": null
     }
   ]
 }
