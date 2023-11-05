@@ -22,6 +22,15 @@
       ]
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-11-05T20:35:01.884Z",
+      "end": "2023-11-06T02:59:01.924Z",
+      "offers": [
+        "6446b01a4bd2e929c1dd96e2"
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
