@@ -22,10 +22,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -45,17 +41,13 @@
       "autoplay": ""
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "headless": false
+      "headless": false,
+      "title": "Mais Vendidos"
     }
   ]
 }
