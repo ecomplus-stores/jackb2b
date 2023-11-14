@@ -54,6 +54,18 @@
       "page": 1,
       "sort": "news",
       "title": "Novidades"
+    },
+    {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "nome": "Paula",
+          "cidade": "Vitória - ES",
+          "texto": "Adorei a loja, super recomendo!"
+        }
+      ],
+      "title": "Elas Recomendam"
     }
   ]
 }
