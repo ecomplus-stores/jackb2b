@@ -18,6 +18,38 @@
       "enabled": true
     },
     {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "nome": "Paula Silva",
+          "cidade": "Vitória - ES",
+          "texto": "Adorei, fiz uma compra e chegou super rápido, recomendo!"
+        },
+        {
+          "nome": "Sara Oliveira",
+          "cidade": "Salvador - BA",
+          "texto": "O que paguei no frete, recebi de brinde.. AMEEEI! ❤️"
+        },
+        {
+          "nome": "Mariana Gonçalves",
+          "cidade": "São Paulo - SP",
+          "texto": "Chegou SUPER rápido, muito bem embalado, veio tudo certinho!!"
+        },
+        {
+          "nome": "Gisele da Silva",
+          "cidade": "Mesquita - RJ",
+          "texto": "Chegou no mesmo dia, incrível, virei cliente !"
+        },
+        {
+          "nome": "Ana Luiza",
+          "cidade": "Recife - PE",
+          "texto": "Chegou um esmalte quebrado mas resolveram rápido, satisfeita!"
+        }
+      ],
+      "title": "Depoimentos de clientes reais, certificados pelo Google"
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
