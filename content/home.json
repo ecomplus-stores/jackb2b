@@ -23,6 +23,12 @@
           "nome": "Paula",
           "cidade": "Vitória - ES",
           "texto": "Adorei a loja, super recomendo!"
+        },
+        {
+          "nome": "Larissa Santos",
+          "cidade": "Itacoatiara - AM",
+          "texto": "\"Amei os esmaltes dessa loja, além de serem baratos, duram muito nas unhas. Já recomendei para todas as amigas 😍",
+          "img": "/img/uploads/ru.png"
         }
       ],
       "title": "Depoimentos de clientes reais, certificados pelo Google"
