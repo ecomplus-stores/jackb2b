@@ -22,7 +22,8 @@
         {
           "nome": "Paula Garcia",
           "cidade": "Vitória - ES",
-          "texto": "Adorei a loja, super recomendo! Produtos chegaram certinhos, super bem embalados."
+          "texto": "Adorei a loja, super recomendo!",
+          "img": "/img/uploads/r11u.png"
         },
         {
           "nome": "Larissa Santos",
