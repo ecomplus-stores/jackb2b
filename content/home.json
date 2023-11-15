@@ -20,7 +20,7 @@
       "autoplay": 9000,
       "reviews": [
         {
-          "nome": "Paula",
+          "nome": "Paula Garcia",
           "cidade": "Vitória - ES",
           "texto": "Adorei a loja, super recomendo!"
         },
@@ -34,6 +34,21 @@
           "nome": "Juliana Costa",
           "cidade": "Pelotas - RS",
           "texto": "Confesso que estava com medo de comprar pela internet, mas essa loja me surpreendeu. Os produtos chegaram certinho, e a qualidade é incrível. Já virei cliente fiel!"
+        },
+        {
+          "nome": "Aline Rocha",
+          "cidade": "Anápolis - GO",
+          "texto": "Nunca pensei que fosse achar tanta coisa legal por um preço que eu pudesse pagar. Essa loja virou minha queridinha para cuidar das unhas."
+        },
+        {
+          "texto": "Tava meio desconfiada no início, mas resolvi arriscar. Comprei uns esmaltes para testar.. Vou comprar de novo!",
+          "nome": "Isabela Pereira",
+          "cidade": "Parnamirim - RN"
+        },
+        {
+          "nome": "Raquel Mendes",
+          "cidade": "Queimados - RJ",
+          "texto": "Comprei um kit para começar, chegou certinho! Agora vou testar."
         }
       ],
       "title": "Depoimentos de clientes reais, certificados pelo Google"
