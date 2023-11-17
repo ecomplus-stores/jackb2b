@@ -23,7 +23,8 @@
   "stamps": [
     {
       "src": "/img/uploads/site-seguro.png",
-      "alt": "Site Seguro - Google"
+      "alt": "Site Seguro - Google",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.unhaseestilo.com.br"
     },
     {
       "src": "/img/uploads/certificado-ssl.png",
