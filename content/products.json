@@ -13,6 +13,20 @@
       }
     },
     {
+      "type": "product-description",
+      "title": "Quem comprou este produto, também comprou:",
+      "enabled": true
+    },
+    {
+      "type": "related-products",
+      "title": "Produtos relacionados"
+    },
+    {
+      "type": "recommended-products",
+      "title": "Quem comprou este produto, também comprou:",
+      "show_loading": true
+    },
+    {
       "type": "review-carousel",
       "autoplay": 9000,
       "reviews": [
@@ -44,28 +58,6 @@
         }
       ],
       "title": "Depoimentos de clientes reais, certificados pelo Google"
-    },
-    {
-      "type": "product-description",
-      "title": "Quem comprou este produto, também comprou:",
-      "enabled": true
-    },
-    {
-      "type": "related-products",
-      "title": "Produtos relacionados"
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:",
-      "show_loading": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
     }
   ]
 }
