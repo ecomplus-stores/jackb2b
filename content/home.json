@@ -23,6 +23,46 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "654673ea2cd6b65959975b03:categories:Promoção:/promocao",
+      "sort": "sales",
+      "title": "Black Week 🔥"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6446e39a4bd2e929c1de1a42:categories:Alongamento Unhas:/alongamento-unhas",
+      "sort": "sales",
+      "link": "Alongamento",
+      "autoplay": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "headless": false,
+      "title": "Mais Vendidos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Novidades"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "review-carousel",
       "autoplay": 9000,
       "reviews": [
@@ -64,46 +104,6 @@
         }
       ],
       "title": "Depoimentos de clientes reais, certificados pelo Google"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "654673ea2cd6b65959975b03:categories:Promoção:/promocao",
-      "sort": "sales",
-      "title": "Black Week 🔥"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6446e39a4bd2e929c1de1a42:categories:Alongamento Unhas:/alongamento-unhas",
-      "sort": "sales",
-      "link": "Alongamento",
-      "autoplay": ""
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "headless": false,
-      "title": "Mais Vendidos"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "Novidades"
     }
   ]
 }
