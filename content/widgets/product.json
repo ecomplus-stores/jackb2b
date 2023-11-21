@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "Eu Quero",
+    "buyText": "",
     "buy": "",
     "strHasQuantitySelector": "_",
     "strHasPromotionTimer": "_",
