@@ -36,7 +36,7 @@
       "page": 1,
       "collection_id": "654673ea2cd6b65959975b03:categories:Promoção:/promocao",
       "sort": "sales",
-      "title": "Promoção de Natal 🎅🏻"
+      "title": "________Promoção de Natal 🎅🏻________"
     },
     {
       "type": "collection-shelf",
@@ -45,7 +45,7 @@
       "page": 1,
       "collection_id": "6571e4032cd6b65959d2087b:categories:InfoProdutos:/info-produtos",
       "sort": "views",
-      "title": "Conquite mais Clientes"
+      "title": "--------Conquite mais Clientes 🚀--------"
     },
     {
       "type": "collection-shelf",
@@ -54,7 +54,7 @@
       "page": 1,
       "collection_id": "6446e39a4bd2e929c1de1a42:categories:Alongamento Unhas:/alongamento-unhas",
       "sort": "sales",
-      "link": "Alongamento",
+      "link": "----------Alongamento 💅🏻----------",
       "autoplay": ""
     },
     {
@@ -64,7 +64,7 @@
       "page": 1,
       "sort": "sales",
       "headless": false,
-      "title": "Mais Vendidos"
+      "title": "----------Mais Vendidos 🏆----------"
     },
     {
       "type": "collection-shelf",
@@ -72,7 +72,7 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "Novidades"
+      "title": "----------Novidades----------"
     },
     {
       "type": "breadcrumbs",
