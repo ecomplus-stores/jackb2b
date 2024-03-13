@@ -1,5 +1,5 @@
 {
   "css": ".list-group-item-action.active .shipping-line > small {\ncolor: #fff !important;\n}",
-  "html_head": "<a href=\"https://wa.me/5521982924225?text=Oi,%20quero%20fazer%20um%20pedido\" style=\"position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;\nz-index:1000;\" target=\"_blank\"><script defer=\"defer\">window.addEventListener(\"load\",function(){var t=document.createElement(\"script\");t.type=\"text/javascript\",t.src=\"https://k-analytics.net/script.min.js?\"+Date.now(),document.body.appendChild(t)});</script>\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n<meta name=\"facebook-domain-verification\" content=\"xoq1crs8mm6rffn52jykbmrd7wqb96\" />",
+  "html_head": "<a href=\"https://wa.me/5521982924225?text=Oi,%20quero%20fazer%20um%20pedido\" style=\"position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;\nz-index:1000;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n<meta name=\"facebook-domain-verification\" content=\"xoq1crs8mm6rffn52jykbmrd7wqb96\" />",
   "html_body": ""
 }
