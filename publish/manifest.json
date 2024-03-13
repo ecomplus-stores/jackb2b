@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.d016408ffa093eb7bcf0b6ad445db7b4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.57e21b35bc12b2d9945d5d6802fa0807.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8aec419ffd5f5fd3aa5a11ecf364143c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.58a5ae126fa408ffb2fe4c520c766e1b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.74bf2aad9cef60d1087c9347eefc9b35.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Unhas & Estilo",
+  "short_name": "Unhas & Estilo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Unhas & Estilo, a sua loja de beleza especializada em produtos para unhas! \n\nOferecemos preços baixos que aumentam o seu lucro, uma ampla variedade de produtos e as últimas novidades em beleza de unhas.\n\nAo comprar conosco, você economiza dinheiro e expande seu negócio. \nVenha fazer parte da nossa comunidade e alcance novos patamares na sua carreira. ",
+  "background_color": "#ffffff",
+  "theme_color": "#750642"
+}
